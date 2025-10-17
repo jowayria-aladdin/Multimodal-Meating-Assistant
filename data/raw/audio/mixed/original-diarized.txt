@@ -1,0 +1,12 @@
+زياد: هاي يا أدهم، عملت run للـ Whisper على الـ audio بتاع الـ meeting اللي فات؟
+أدهم: آه عملت، والـ result كانت كويسة في الـ English بس العربي لسه فيه مشاكل شوية.
+زياد: طيب، جربت Google Speech-to-Text؟
+أدهم: أيوه، بس هو ما بيفهمش أي كلمة عربي تقريبًا، بيحاول يترجمها أو يهملها خالص.
+زياد: همم، expected. طب جربنا Otter؟
+أدهم: لسه، بس هعمل test عليه النهارده. عايزين نشوف هل بيقدر يفصل ما بين الـ speakers ولا لأ.
+زياد: true. speaker diarization مهمة جدًا في الـ project ده، especially لو عايزين نعمل حاجة زي meeting assistant.
+أدهم: بالظبط. وأنا بفكر كمان نزود step نعمل زي noise suppression قبل الـ transcription.
+زياد: فكرة حلوة جدًا. ممكن نجربها كـ preprocessing step ونشوف هل الـ WER هيتحسن.
+أدهم: تمام، خلينا نكتب الـ results دي في الـ report بتاع Sprint 1، ونوضح الـ limitations اللي شفناها.
+زياد: agreed. نخلصها بكرة إن شاء الله.
+أدهم: تمام زي الفل
