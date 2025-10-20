@@ -1,0 +1,13 @@
+Ziad: Hey Adham, let’s quickly finalize what we’ll do in Sprint One.
+Adham: Sure. So, our goal is to benchmark existing transcription tools like Whisper, Google Speech-to-Text, and Otter.ai.
+Ziad: Right. We need to collect a few short meeting recordings — English, Arabic, and a mixed one with some code-switching.
+Adham: Exactly. Then we’ll run each audio file through those systems and compare the transcripts.
+Ziad: For metrics, we’ll focus on Word Error Rate, and also check how each one handles noise and speaker separation.
+Adham: Yeah, especially in noisy or mixed-language recordings — that’s where Whisper usually does better.
+Ziad: I’ll handle testing on Google Speech-to-Text and Otter. Can you run Whisper locally?
+Adham: Sure thing. I already set up the model on my machine.
+Ziad: Nice. Then we’ll prepare a short report — like two or three pages — summarizing the results and limitations.
+Adham: Perfect. Let’s aim to finish this by the weekend so we can move to sign-language handling next sprint.
+Ziad: Deal. I’ll start by gathering the test audios today.
+Adham: Thank you, Ziad.
+Ziad: Your welcome, Adham.

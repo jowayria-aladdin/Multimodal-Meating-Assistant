@@ -1,0 +1,7 @@
+hey Adam let's quickly finalize what we will do in Sprint one sure so our goal is to Benchmark existing transcription tools like whisper Googles to text and utter AI
+ right we need to collect a few short meeting recordings English Arabic and a mixed one with some code switching exactly then we were running each odds through the systems and compare the transcripts
+ for Matrix we will focus on word error rate and also check how each one handles noise and speakers separation yes specially in noisy or mixed language recording that's where whisper usually does better
+ I will handle this thing on Google speech to text and utter can you run whisper locally sure thing I already set up the model in my machine
+ nice then we will prepare a short report like two or three pages summarizing the results and limitations perfect let's aim to finish this boys a weekend so we can move to sign language handling next friend
+ Dean start by gathering the test audios today thank you
+welcome and
