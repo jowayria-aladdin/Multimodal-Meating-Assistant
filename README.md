@@ -1,1 +1,1 @@
-# AI-NoteTaker
+# MultiModal-Meeting-Assistant
